@@ -9,6 +9,7 @@ public class clase1 {
 		System.out.println("Hola, esta es la version 1.30");
 		System.out.println("Hola, esta es la version 1.40");
 		System.out.println("Hola, esta es la version 1.50");
+		System.out.println("Hola, esta es la version 1.60");
 
 		
 	}
