@@ -5,7 +5,8 @@ public class clase1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola, esta es la version 1.10");
-		
+		System.out.println("Hola, esta es la version 1.20");
+
 		
 	}
 
